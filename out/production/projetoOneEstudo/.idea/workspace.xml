@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0a196e9-6864-47d4-bed2-7d4b7a95d0b8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="projetoOneEstudo" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="AnnotationType" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ojSDsQU8OYFmkq0g1ioboBWjym" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="283" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="teste.erro.exercicio" />
+      <recent name="teste.erro.aula48" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="teste.erro.exercicio" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="lambda" />
+      <recent name="lambda.supplier" />
+      <recent name="lambda.interface_funcional" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="teste.aula43" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ExemploStreams">
+    <configuration name="ExemploComparators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aprendizadoAvancadoJava.coleçoesJava.interfaceComparators.ExemploComparators" />
+      <module name="projetoOneEstudo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aprendizadoAvancadoJava.coleçoesJava.interfaceComparators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemploOptional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aprendizadoAvancadoJava.coleçoesJava.ExemploOptional" />
+      <module name="projetoOneEstudo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aprendizadoAvancadoJava.coleçoesJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemploStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aprendizadoAvancadoJava.coleçoesJava.ExemploStreams" />
+      <module name="projetoOneEstudo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aprendizadoAvancadoJava.coleçoesJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExercicioComparators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aprendizadoAvancadoJava.coleçoesJava.interfaceComparators.ExercicioComparators" />
+      <module name="projetoOneEstudo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aprendizadoAvancadoJava.coleçoesJava.interfaceComparators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExercicioTreeMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aprendizadoAvancadoJava.coleçoesJava.map_colecao.ExercicioTreeMap" />
+      <module name="projetoOneEstudo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aprendizadoAvancadoJava.coleçoesJava.map_colecao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExemploStreams" />
+        <item itemvalue="Application.ExemploOptional" />
+        <item itemvalue="Application.ExercicioComparators" />
+        <item itemvalue="Application.ExemploComparators" />
+        <item itemvalue="Application.ExercicioTreeMap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0a196e9-6864-47d4-bed2-7d4b7a95d0b8" name="Default Changelist" comment="" />
+      <created>1613798389713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613798389713</updated>
+      <workItem from="1613798393226" duration="122000" />
+      <workItem from="1613798531066" duration="5000" />
+      <workItem from="1613801106493" duration="432000" />
+      <workItem from="1613802700432" duration="817000" />
+      <workItem from="1613812222621" duration="3912000" />
+      <workItem from="1613943253110" duration="3853000" />
+      <workItem from="1613981929290" duration="10177000" />
+      <workItem from="1614197794665" duration="814000" />
+      <workItem from="1614246650224" duration="4546000" />
+      <workItem from="1614281928835" duration="1366000" />
+      <workItem from="1614291642669" duration="1028000" />
+      <workItem from="1614292698112" duration="1666000" />
+      <workItem from="1614400682900" duration="2719000" />
+      <workItem from="1614414337738" duration="15737000" />
+      <workItem from="1614536049044" duration="2012000" />
+      <workItem from="1614549522167" duration="3896000" />
+      <workItem from="1614609913144" duration="8683000" />
+      <workItem from="1614671606732" duration="5951000" />
+      <workItem from="1614743081830" duration="3729000" />
+      <workItem from="1614749718812" duration="15968000" />
+      <workItem from="1614882241458" duration="3700000" />
+      <workItem from="1614919409433" duration="18042000" />
+      <workItem from="1614986064463" duration="66000" />
+      <workItem from="1615000478498" duration="1994000" />
+      <workItem from="1615061202716" duration="4352000" />
+      <workItem from="1615161457859" duration="4243000" />
+      <workItem from="1615239905045" duration="2944000" />
+      <workItem from="1615269134030" duration="4688000" />
+      <workItem from="1615332725083" duration="2176000" />
+      <workItem from="1615362386961" duration="3856000" />
+      <workItem from="1615414092673" duration="2329000" />
+      <workItem from="1615436146679" duration="3939000" />
+      <workItem from="1615485620036" duration="1247000" />
+      <workItem from="1615493136997" duration="10283000" />
+      <workItem from="1615533198552" duration="353000" />
+      <workItem from="1615594166709" duration="4032000" />
+      <workItem from="1615591174245" duration="1949000" />
+      <workItem from="1615658958746" duration="8649000" />
+      <workItem from="1615749464963" duration="457000" />
+      <workItem from="1615829601815" duration="421000" />
+      <workItem from="1615830960368" duration="4155000" />
+      <workItem from="1615921629617" duration="2556000" />
+      <workItem from="1615996008513" duration="3538000" />
+      <workItem from="1616044258717" duration="1881000" />
+      <workItem from="1616094542041" duration="160000" />
+      <workItem from="1617300387510" duration="811000" />
+      <workItem from="1617303754132" duration="13043000" />
+      <workItem from="1617405265655" duration="872000" />
+      <workItem from="1617411659856" duration="722000" />
+      <workItem from="1617467409693" duration="7590000" />
+      <workItem from="1617560639272" duration="6234000" />
+      <workItem from="1617643503688" duration="633000" />
+      <workItem from="1617688344263" duration="7325000" />
+      <workItem from="1617822632101" duration="6549000" />
+      <workItem from="1617909521145" duration="780000" />
+      <workItem from="1618002522700" duration="4093000" />
+      <workItem from="1618035121759" duration="6960000" />
+      <workItem from="1618114969638" duration="5257000" />
+      <workItem from="1618188033166" duration="778000" />
+      <workItem from="1618246356345" duration="3715000" />
+      <workItem from="1618335381722" duration="5721000" />
+      <workItem from="1618355569412" duration="4004000" />
+      <workItem from="1618422439512" duration="3892000" />
+      <workItem from="1618452541165" duration="2022000" />
+      <workItem from="1618517737277" duration="2605000" />
+      <workItem from="1618590448022" duration="9067000" />
+      <workItem from="1618681415429" duration="880000" />
+      <workItem from="1618689525259" duration="4927000" />
+      <workItem from="1618780657971" duration="605000" />
+      <workItem from="1618849757066" duration="3513000" />
+      <workItem from="1618928670195" duration="6359000" />
+      <workItem from="1619026937845" duration="7221000" />
+      <workItem from="1619111786898" duration="8040000" />
+      <workItem from="1619207704121" duration="1225000" />
+      <workItem from="1619217136734" duration="1231000" />
+      <workItem from="1619243139296" duration="762000" />
+      <workItem from="1619246854281" duration="633000" />
+      <workItem from="1619307156007" duration="3480000" />
+      <workItem from="1619375135652" duration="644000" />
+      <workItem from="1619378584836" duration="1807000" />
+      <workItem from="1619448723701" duration="22109000" />
+      <workItem from="1619517513990" duration="1857000" />
+      <workItem from="1619634774040" duration="1110000" />
+      <workItem from="1619646270813" duration="9709000" />
+      <workItem from="1619717107002" duration="4251000" />
+      <workItem from="1619806572358" duration="3990000" />
+      <workItem from="1619908742850" duration="12806000" />
+      <workItem from="1619987027820" duration="1759000" />
+      <workItem from="1620005857156" duration="3417000" />
+      <workItem from="1620026042946" duration="4344000" />
+      <workItem from="1620069899457" duration="12091000" />
+      <workItem from="1620103894037" duration="4403000" />
+      <workItem from="1620237987373" duration="5963000" />
+      <workItem from="1620320516167" duration="801000" />
+      <workItem from="1620340598455" duration="6518000" />
+      <workItem from="1620406726411" duration="5655000" />
+      <workItem from="1620421880285" duration="3771000" />
+      <workItem from="1620439862339" duration="3115000" />
+      <workItem from="1620451096085" duration="2344000" />
+      <workItem from="1620454475993" duration="5711000" />
+      <workItem from="1620508393981" duration="3600000" />
+      <workItem from="1620529476947" duration="661000" />
+      <workItem from="1620542184019" duration="5921000" />
+      <workItem from="1620584373676" duration="221000" />
+      <workItem from="1620584617345" duration="176000" />
+      <workItem from="1620584814375" duration="8201000" />
+      <workItem from="1620611620211" duration="1430000" />
+      <workItem from="1620676443592" duration="999000" />
+      <workItem from="1620681636485" duration="1473000" />
+      <workItem from="1620703849912" duration="5082000" />
+      <workItem from="1620768515103" duration="10427000" />
+      <workItem from="1620798471866" duration="10337000" />
+      <workItem from="1620870686866" duration="3036000" />
+      <workItem from="1620916973176" duration="9255000" />
+      <workItem from="1620965863764" duration="371000" />
+      <workItem from="1621023512873" duration="6192000" />
+      <workItem from="1621103243810" duration="6413000" />
+      <workItem from="1621190377159" duration="18639000" />
+      <workItem from="1621277875388" duration="8075000" />
+      <workItem from="1621305558355" duration="2463000" />
+      <workItem from="1621321753208" duration="8509000" />
+      <workItem from="1621440319934" duration="13268000" />
+      <workItem from="1621486923028" duration="5753000" />
+      <workItem from="1621551777912" duration="5685000" />
+      <workItem from="1621576714358" duration="15761000" />
+      <workItem from="1621719360711" duration="2366000" />
+      <workItem from="1621760422393" duration="5521000" />
+      <workItem from="1621841391171" duration="703000" />
+      <workItem from="1621887270283" duration="2405000" />
+      <workItem from="1621924324333" duration="1829000" />
+      <workItem from="1621967400290" duration="8564000" />
+      <workItem from="1622048592400" duration="9068000" />
+      <workItem from="1622093907257" duration="9459000" />
+      <workItem from="1622174892039" duration="675000" />
+      <workItem from="1622215517769" duration="1876000" />
+      <workItem from="1622237975300" duration="2505000" />
+      <workItem from="1622306342460" duration="9486000" />
+      <workItem from="1622398426480" duration="2853000" />
+      <workItem from="1622412449990" duration="1558000" />
+      <workItem from="1622489780550" duration="3908000" />
+      <workItem from="1622513887183" duration="8770000" />
+      <workItem from="1622532419171" duration="4975000" />
+      <workItem from="1622586059863" duration="444000" />
+      <workItem from="1622586542670" duration="5997000" />
+      <workItem from="1622620815759" duration="3587000" />
+      <workItem from="1622657457241" duration="4680000" />
+      <workItem from="1622738934789" duration="3071000" />
+      <workItem from="1622765744716" duration="7696000" />
+      <workItem from="1622815570337" duration="1706000" />
+      <workItem from="1622843608717" duration="3182000" />
+      <workItem from="1622909668596" duration="3768000" />
+      <workItem from="1622925419421" duration="8421000" />
+      <workItem from="1623001446446" duration="897000" />
+      <workItem from="1623006911687" duration="3651000" />
+      <workItem from="1623032847787" duration="9120000" />
+      <workItem from="1623165544901" duration="8679000" />
+      <workItem from="1623264115252" duration="651000" />
+      <workItem from="1623277157763" duration="982000" />
+      <workItem from="1623366833550" duration="3142000" />
+      <workItem from="1623428005360" duration="4884000" />
+      <workItem from="1623469521070" duration="7324000" />
+      <workItem from="1623550176707" duration="653000" />
+      <workItem from="1623606479728" duration="2524000" />
+      <workItem from="1623685377853" duration="8716000" />
+      <workItem from="1623735652966" duration="6786000" />
+      <workItem from="1623818219617" duration="682000" />
+      <workItem from="1623828583879" duration="3086000" />
+      <workItem from="1623910133831" duration="8845000" />
+      <workItem from="1624032293330" duration="6386000" />
+      <workItem from="1624083824549" duration="5313000" />
+      <workItem from="1624166462807" duration="3653000" />
+      <workItem from="1624297255641" duration="11583000" />
+      <workItem from="1624376836311" duration="1451000" />
+      <workItem from="1624557927445" duration="10412000" />
+      <workItem from="1624640014726" duration="17629000" />
+      <workItem from="1624752996211" duration="898000" />
+      <workItem from="1624817591075" duration="4871000" />
+      <workItem from="1624899830660" duration="7284000" />
+      <workItem from="1624987278226" duration="11542000" />
+      <workItem from="1625014369766" duration="1407000" />
+      <workItem from="1625024776639" duration="4791000" />
+      <workItem from="1625064460969" duration="12867000" />
+      <workItem from="1625269166942" duration="1644000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1512" y="18" key="#Project_Structure" timestamp="1622664816767">
+      <screen x="1280" y="0" width="1280" height="720" />
+    </state>
+    <state x="1512" y="18" key="#Project_Structure/77.0.1203.720/1280.0.1280.720@1280.0.1280.720" timestamp="1622664816767" />
+    <state x="1668" y="163" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1622585843305">
+      <screen x="1280" y="0" width="1280" height="720" />
+    </state>
+    <state x="1668" y="163" key="#com.intellij.fileTypes.FileTypeChooser/77.0.1203.720/1280.0.1280.720@1280.0.1280.720" timestamp="1622585843305" />
+    <state x="1668" y="163" key="#com.intellij.fileTypes.FileTypeChooser/80.0.1200.720/1280.0.1280.720@1280.0.1280.720" timestamp="1621631151444" />
+    <state x="437" y="205" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1622669278597">
+      <screen x="77" y="0" width="1203" height="720" />
+    </state>
+    <state x="437" y="205" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/77.0.1203.720/1280.0.1280.720@77.0.1203.720" timestamp="1622669278597" />
+    <state x="1725" y="51" key="#com.intellij.ide.util.MemberChooser" timestamp="1625029126952">
+      <screen x="1280" y="0" width="1280" height="720" />
+    </state>
+    <state x="1725" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1280.0.1280.680@1280.0.1280.680" timestamp="1619929884590" />
+    <state x="1725" y="51" key="#com.intellij.ide.util.MemberChooser/62.0.1218.720/1280.0.1280.720@1280.0.1280.720" timestamp="1624215468128" />
+    <state x="485" y="51" key="#com.intellij.ide.util.MemberChooser/62.0.1218.720/1280.0.1280.720@62.0.1218.720" timestamp="1623185035617" />
+    <state x="1725" y="51" key="#com.intellij.ide.util.MemberChooser/64.0.1216.720/1280.0.1280.720@1280.0.1280.720" timestamp="1624117016154" />
+    <state x="1725" y="51" key="#com.intellij.ide.util.MemberChooser/65.0.1215.720/1280.0.1280.720@1280.0.1280.720" timestamp="1623531761285" />
+    <state x="1725" y="51" key="#com.intellij.ide.util.MemberChooser/66.0.1214.720/1280.0.1280.720@1280.0.1280.720" timestamp="1625029126952" />
+    <state x="1725" y="51" key="#com.intellij.ide.util.MemberChooser/72.0.1208.720/1280.0.1280.720@1280.0.1280.720" timestamp="1624682301588" />
+    <state x="492" y="51" key="#com.intellij.ide.util.MemberChooser/72.0.1208.720/1280.0.1280.720@72.0.1208.720" timestamp="1624668946685" />
+    <state x="1725" y="51" key="#com.intellij.ide.util.MemberChooser/77.0.1203.720/1280.0.1280.720@1280.0.1280.720" timestamp="1622768175374" />
+    <state x="495" y="51" key="#com.intellij.ide.util.MemberChooser/77.0.1203.720/1280.0.1280.720@77.0.1203.720" timestamp="1622517479886" />
+    <state x="1725" y="51" key="#com.intellij.ide.util.MemberChooser/80.0.1200.720/1280.0.1280.720@1280.0.1280.720" timestamp="1622153513265" />
+    <state x="497" y="51" key="#com.intellij.ide.util.MemberChooser/80.0.1200.720/1280.0.1280.720@80.0.1200.720" timestamp="1621623323811" />
+    <state x="1725" y="51" key="#com.intellij.ide.util.MemberChooser/88.0.1192.720/1280.0.1280.720@1280.0.1280.720" timestamp="1620096056423" />
+    <state x="1725" y="51" key="#com.intellij.ide.util.MemberChooser/93.0.1187.720/1280.0.1280.720@1280.0.1280.720" timestamp="1620410563759" />
+    <state x="1725" y="51" key="#com.intellij.ide.util.MemberChooser/94.0.1186.720/1280.0.1280.720@1280.0.1280.720" timestamp="1621143490122" />
+    <state x="506" y="51" key="#com.intellij.ide.util.MemberChooser/94.0.1186.720/1280.0.1280.720@94.0.1186.720" timestamp="1621475102656" />
+    <state x="1550" y="49" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1622664859964">
+      <screen x="1280" y="0" width="1280" height="720" />
+    </state>
+    <state x="1550" y="49" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/77.0.1203.720/1280.0.1280.720@1280.0.1280.720" timestamp="1622664859964" />
+    <state x="1506" y="285" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1625029246505">
+      <screen x="1280" y="0" width="1280" height="720" />
+    </state>
+    <state x="1506" y="285" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/66.0.1214.720/1280.0.1280.720@1280.0.1280.720" timestamp="1625029246505" />
+    <state x="1674" y="219" width="492" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1624678545699">
+      <screen x="1280" y="0" width="1280" height="720" />
+    </state>
+    <state x="1674" y="219" width="492" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/72.0.1208.720/1280.0.1280.720@1280.0.1280.720" timestamp="1624678545699" />
+    <state x="1542" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1619650685553">
+      <screen x="1280" y="0" width="1280" height="680" />
+    </state>
+    <state x="1542" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680/1280.0.1280.680@1280.0.1280.680" timestamp="1619650685553" />
+    <state x="1650" y="92" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1623531069181">
+      <screen x="1280" y="0" width="1280" height="720" />
+    </state>
+    <state x="1650" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680/1280.0.1280.680@1280.0.1280.680" timestamp="1619668273280" />
+    <state x="1650" y="92" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/65.0.1215.720/1280.0.1280.720@1280.0.1280.720" timestamp="1623531069181" />
+    <state x="1650" y="107" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1624215783443">
+      <screen x="1280" y="0" width="1280" height="720" />
+    </state>
+    <state x="1650" y="107" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/62.0.1218.720/1280.0.1280.720@1280.0.1280.720" timestamp="1624215783443" />
+    <state x="390" y="0" key="#estrutura_de_dados_in_projetoOneEstudo" timestamp="1620763415553">
+      <screen x="94" y="0" width="1186" height="720" />
+    </state>
+    <state x="390" y="0" key="#estrutura_de_dados_in_projetoOneEstudo/94.0.1186.720/1280.0.1280.720@94.0.1186.720" timestamp="1620763415553" />
+    <state x="1675" y="63" key="#xdebugger.evaluate" timestamp="1621720543613">
+      <screen x="1280" y="0" width="1280" height="720" />
+    </state>
+    <state x="1675" y="63" key="#xdebugger.evaluate/80.0.1200.720/1280.0.1280.720@1280.0.1280.720" timestamp="1621720543613" />
+    <state x="1678" y="231" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1620677439621">
+      <screen x="1280" y="0" width="1280" height="720" />
+    </state>
+    <state x="1678" y="231" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/94.0.1186.720/1280.0.1280.720@1280.0.1280.720" timestamp="1620677439621" />
+    <state x="1699" y="86" key="FileChooserDialogImpl" timestamp="1625113958592">
+      <screen x="1280" y="0" width="1280" height="720" />
+    </state>
+    <state x="1699" y="86" key="FileChooserDialogImpl/62.0.1218.720/1280.0.1280.720@1280.0.1280.720" timestamp="1625113958592" />
+    <state x="482" y="86" key="FileChooserDialogImpl/94.0.1186.720/1280.0.1280.720@94.0.1186.720" timestamp="1620763310954" />
+    <state width="1237" height="152" key="GridCell.Tab.0.bottom" timestamp="1625090300251">
+      <screen x="1280" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="194" key="GridCell.Tab.0.bottom/0.0.1280.680/1280.0.1280.680@1280.0.1280.680" timestamp="1619930076040" />
+    <state width="1237" height="142" key="GridCell.Tab.0.bottom/62.0.1218.720/1280.0.1280.720@1280.0.1280.720" timestamp="1623210002064" />
+    <state width="1175" height="212" key="GridCell.Tab.0.bottom/62.0.1218.720/1280.0.1280.720@62.0.1218.720" timestamp="1623185694234" />
+    <state width="1237" height="142" key="GridCell.Tab.0.bottom/65.0.1215.720/1280.0.1280.720@1280.0.1280.720" timestamp="1623795559777" />
+    <state width="1237" height="152" key="GridCell.Tab.0.bottom/66.0.1214.720/1280.0.1280.720@1280.0.1280.720" timestamp="1625090300251" />
+    <state width="1171" height="142" key="GridCell.Tab.0.bottom/66.0.1214.720/1280.0.1280.720@66.0.1214.720" timestamp="1624057408897" />
+    <state width="1237" height="212" key="GridCell.Tab.0.bottom/69.0.1211.720/1280.0.1280.720@1280.0.1280.720" timestamp="1622774830813" />
+    <state width="1237" height="152" key="GridCell.Tab.0.bottom/72.0.1208.720/1280.0.1280.720@1280.0.1280.720" timestamp="1624681364312" />
+    <state width="1165" height="184" key="GridCell.Tab.0.bottom/72.0.1208.720/1280.0.1280.720@72.0.1208.720" timestamp="1624670500306" />
+    <state width="1237" height="212" key="GridCell.Tab.0.bottom/77.0.1203.720/1280.0.1280.720@1280.0.1280.720" timestamp="1622769523341" />
+    <state width="884" height="127" key="GridCell.Tab.0.bottom/77.0.1203.720/1280.0.1280.720@77.0.1203.720" timestamp="1622531521152" />
+    <state width="1237" height="166" key="GridCell.Tab.0.bottom/80.0.1200.720/1280.0.1280.720@1280.0.1280.720" timestamp="1622173917554" />
+    <state width="1237" height="138" key="GridCell.Tab.0.bottom/88.0.1192.720/1280.0.1280.720@1280.0.1280.720" timestamp="1620097407128" />
+    <state width="1237" height="212" key="GridCell.Tab.0.bottom/93.0.1187.720/1280.0.1280.720@1280.0.1280.720" timestamp="1622950396869" />
+    <state width="884" height="85" key="GridCell.Tab.0.bottom/94.0.1186.720/1280.0.1280.720@1280.0.1280.720" timestamp="1621573979622" />
+    <state width="884" height="85" key="GridCell.Tab.0.bottom/94.0.1186.720/1280.0.1280.720@94.0.1186.720" timestamp="1621551752766" />
+    <state width="1143" height="138" key="GridCell.Tab.0.bottom/94.0.1186.720@94.0.1186.720" timestamp="1621051737369" />
+    <state width="1237" height="152" key="GridCell.Tab.0.center" timestamp="1625090300250">
+      <screen x="1280" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="194" key="GridCell.Tab.0.center/0.0.1280.680/1280.0.1280.680@1280.0.1280.680" timestamp="1619930076040" />
+    <state width="1237" height="142" key="GridCell.Tab.0.center/62.0.1218.720/1280.0.1280.720@1280.0.1280.720" timestamp="1623210002063" />
+    <state width="1175" height="212" key="GridCell.Tab.0.center/62.0.1218.720/1280.0.1280.720@62.0.1218.720" timestamp="1623185694234" />
+    <state width="1237" height="142" key="GridCell.Tab.0.center/65.0.1215.720/1280.0.1280.720@1280.0.1280.720" timestamp="1623795559776" />
+    <state width="1237" height="152" key="GridCell.Tab.0.center/66.0.1214.720/1280.0.1280.720@1280.0.1280.720" timestamp="1625090300250" />
+    <state width="1171" height="142" key="GridCell.Tab.0.center/66.0.1214.720/1280.0.1280.720@66.0.1214.720" timestamp="1624057408897" />
+    <state width="1237" height="212" key="GridCell.Tab.0.center/69.0.1211.720/1280.0.1280.720@1280.0.1280.720" timestamp="1622774830813" />
+    <state width="1237" height="152" key="GridCell.Tab.0.center/72.0.1208.720/1280.0.1280.720@1280.0.1280.720" timestamp="1624681364312" />
+    <state width="1165" height="184" key="GridCell.Tab.0.center/72.0.1208.720/1280.0.1280.720@72.0.1208.720" timestamp="1624670500306" />
+    <state width="1237" height="212" key="GridCell.Tab.0.center/77.0.1203.720/1280.0.1280.720@1280.0.1280.720" timestamp="1622769523340" />
+    <state width="884" height="127" key="GridCell.Tab.0.center/77.0.1203.720/1280.0.1280.720@77.0.1203.720" timestamp="1622531521152" />
+    <state width="1237" height="166" key="GridCell.Tab.0.center/80.0.1200.720/1280.0.1280.720@1280.0.1280.720" timestamp="1622173917554" />
+    <state width="1237" height="138" key="GridCell.Tab.0.center/88.0.1192.720/1280.0.1280.720@1280.0.1280.720" timestamp="1620097407128" />
+    <state width="1237" height="212" key="GridCell.Tab.0.center/93.0.1187.720/1280.0.1280.720@1280.0.1280.720" timestamp="1622950396869" />
+    <state width="884" height="85" key="GridCell.Tab.0.center/94.0.1186.720/1280.0.1280.720@1280.0.1280.720" timestamp="1621573979622" />
+    <state width="884" height="85" key="GridCell.Tab.0.center/94.0.1186.720/1280.0.1280.720@94.0.1186.720" timestamp="1621551752766" />
+    <state width="1143" height="138" key="GridCell.Tab.0.center/94.0.1186.720@94.0.1186.720" timestamp="1621051737369" />
+    <state width="1237" height="152" key="GridCell.Tab.0.left" timestamp="1625090300250">
+      <screen x="1280" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="194" key="GridCell.Tab.0.left/0.0.1280.680/1280.0.1280.680@1280.0.1280.680" timestamp="1619930076040" />
+    <state width="1237" height="142" key="GridCell.Tab.0.left/62.0.1218.720/1280.0.1280.720@1280.0.1280.720" timestamp="1623210002063" />
+    <state width="1175" height="212" key="GridCell.Tab.0.left/62.0.1218.720/1280.0.1280.720@62.0.1218.720" timestamp="1623185694233" />
+    <state width="1237" height="142" key="GridCell.Tab.0.left/65.0.1215.720/1280.0.1280.720@1280.0.1280.720" timestamp="1623795559776" />
+    <state width="1237" height="152" key="GridCell.Tab.0.left/66.0.1214.720/1280.0.1280.720@1280.0.1280.720" timestamp="1625090300250" />
+    <state width="1171" height="142" key="GridCell.Tab.0.left/66.0.1214.720/1280.0.1280.720@66.0.1214.720" timestamp="1624057408897" />
+    <state width="1237" height="212" key="GridCell.Tab.0.left/69.0.1211.720/1280.0.1280.720@1280.0.1280.720" timestamp="1622774830813" />
+    <state width="1237" height="152" key="GridCell.Tab.0.left/72.0.1208.720/1280.0.1280.720@1280.0.1280.720" timestamp="1624681364312" />
+    <state width="1165" height="184" key="GridCell.Tab.0.left/72.0.1208.720/1280.0.1280.720@72.0.1208.720" timestamp="1624670500306" />
+    <state width="1237" height="212" key="GridCell.Tab.0.left/77.0.1203.720/1280.0.1280.720@1280.0.1280.720" timestamp="1622769523340" />
+    <state width="884" height="127" key="GridCell.Tab.0.left/77.0.1203.720/1280.0.1280.720@77.0.1203.720" timestamp="1622531521152" />
+    <state width="1237" height="166" key="GridCell.Tab.0.left/80.0.1200.720/1280.0.1280.720@1280.0.1280.720" timestamp="1622173917554" />
+    <state width="1237" height="138" key="GridCell.Tab.0.left/88.0.1192.720/1280.0.1280.720@1280.0.1280.720" timestamp="1620097407128" />
+    <state width="1237" height="212" key="GridCell.Tab.0.left/93.0.1187.720/1280.0.1280.720@1280.0.1280.720" timestamp="1622950396869" />
+    <state width="884" height="85" key="GridCell.Tab.0.left/94.0.1186.720/1280.0.1280.720@1280.0.1280.720" timestamp="1621573979622" />
+    <state width="884" height="85" key="GridCell.Tab.0.left/94.0.1186.720/1280.0.1280.720@94.0.1186.720" timestamp="1621551752766" />
+    <state width="1143" height="138" key="GridCell.Tab.0.left/94.0.1186.720@94.0.1186.720" timestamp="1621051737368" />
+    <state width="1237" height="152" key="GridCell.Tab.0.right" timestamp="1625090300250">
+      <screen x="1280" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="194" key="GridCell.Tab.0.right/0.0.1280.680/1280.0.1280.680@1280.0.1280.680" timestamp="1619930076040" />
+    <state width="1237" height="142" key="GridCell.Tab.0.right/62.0.1218.720/1280.0.1280.720@1280.0.1280.720" timestamp="1623210002063" />
+    <state width="1175" height="212" key="GridCell.Tab.0.right/62.0.1218.720/1280.0.1280.720@62.0.1218.720" timestamp="1623185694234" />
+    <state width="1237" height="142" key="GridCell.Tab.0.right/65.0.1215.720/1280.0.1280.720@1280.0.1280.720" timestamp="1623795559777" />
+    <state width="1237" height="152" key="GridCell.Tab.0.right/66.0.1214.720/1280.0.1280.720@1280.0.1280.720" timestamp="1625090300250" />
+    <state width="1171" height="142" key="GridCell.Tab.0.right/66.0.1214.720/1280.0.1280.720@66.0.1214.720" timestamp="1624057408897" />
+    <state width="1237" height="212" key="GridCell.Tab.0.right/69.0.1211.720/1280.0.1280.720@1280.0.1280.720" timestamp="1622774830813" />
+    <state width="1237" height="152" key="GridCell.Tab.0.right/72.0.1208.720/1280.0.1280.720@1280.0.1280.720" timestamp="1624681364312" />
+    <state width="1165" height="184" key="GridCell.Tab.0.right/72.0.1208.720/1280.0.1280.720@72.0.1208.720" timestamp="1624670500306" />
+    <state width="1237" height="212" key="GridCell.Tab.0.right/77.0.1203.720/1280.0.1280.720@1280.0.1280.720" timestamp="1622769523340" />
+    <state width="884" height="127" key="GridCell.Tab.0.right/77.0.1203.720/1280.0.1280.720@77.0.1203.720" timestamp="1622531521152" />
+    <state width="1237" height="166" key="GridCell.Tab.0.right/80.0.1200.720/1280.0.1280.720@1280.0.1280.720" timestamp="1622173917554" />
+    <state width="1237" height="138" key="GridCell.Tab.0.right/88.0.1192.720/1280.0.1280.720@1280.0.1280.720" timestamp="1620097407128" />
+    <state width="1237" height="212" key="GridCell.Tab.0.right/93.0.1187.720/1280.0.1280.720@1280.0.1280.720" timestamp="1622950396869" />
+    <state width="884" height="85" key="GridCell.Tab.0.right/94.0.1186.720/1280.0.1280.720@1280.0.1280.720" timestamp="1621573979622" />
+    <state width="884" height="85" key="GridCell.Tab.0.right/94.0.1186.720/1280.0.1280.720@94.0.1186.720" timestamp="1621551752766" />
+    <state width="1143" height="138" key="GridCell.Tab.0.right/94.0.1186.720@94.0.1186.720" timestamp="1621051737369" />
+    <state width="1237" height="220" key="GridCell.Tab.1.bottom" timestamp="1621747583951">
+      <screen x="1280" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680/1280.0.1280.680@1280.0.1280.680" timestamp="1618613024623" />
+    <state width="1237" height="220" key="GridCell.Tab.1.bottom/80.0.1200.720/1280.0.1280.720@1280.0.1280.720" timestamp="1621747583951" />
+    <state width="1237" height="220" key="GridCell.Tab.1.bottom/93.0.1187.720/1280.0.1280.720@1280.0.1280.720" timestamp="1620419708792" />
+    <state width="1143" height="220" key="GridCell.Tab.1.bottom/94.0.1186.720/1280.0.1280.720@94.0.1186.720" timestamp="1620873744007" />
+    <state width="1237" height="220" key="GridCell.Tab.1.center" timestamp="1621747583951">
+      <screen x="1280" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680/1280.0.1280.680@1280.0.1280.680" timestamp="1618613024623" />
+    <state width="1237" height="220" key="GridCell.Tab.1.center/80.0.1200.720/1280.0.1280.720@1280.0.1280.720" timestamp="1621747583951" />
+    <state width="1237" height="220" key="GridCell.Tab.1.center/93.0.1187.720/1280.0.1280.720@1280.0.1280.720" timestamp="1620419708792" />
+    <state width="1143" height="220" key="GridCell.Tab.1.center/94.0.1186.720/1280.0.1280.720@94.0.1186.720" timestamp="1620873744007" />
+    <state width="1237" height="220" key="GridCell.Tab.1.left" timestamp="1621747583951">
+      <screen x="1280" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680/1280.0.1280.680@1280.0.1280.680" timestamp="1618613024623" />
+    <state width="1237" height="220" key="GridCell.Tab.1.left/80.0.1200.720/1280.0.1280.720@1280.0.1280.720" timestamp="1621747583951" />
+    <state width="1237" height="220" key="GridCell.Tab.1.left/93.0.1187.720/1280.0.1280.720@1280.0.1280.720" timestamp="1620419708792" />
+    <state width="1143" height="220" key="GridCell.Tab.1.left/94.0.1186.720/1280.0.1280.720@94.0.1186.720" timestamp="1620873744007" />
+    <state width="1237" height="220" key="GridCell.Tab.1.right" timestamp="1621747583951">
+      <screen x="1280" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680/1280.0.1280.680@1280.0.1280.680" timestamp="1618613024623" />
+    <state width="1237" height="220" key="GridCell.Tab.1.right/80.0.1200.720/1280.0.1280.720@1280.0.1280.720" timestamp="1621747583951" />
+    <state width="1237" height="220" key="GridCell.Tab.1.right/93.0.1187.720/1280.0.1280.720@1280.0.1280.720" timestamp="1620419708792" />
+    <state width="1143" height="220" key="GridCell.Tab.1.right/94.0.1186.720/1280.0.1280.720@94.0.1186.720" timestamp="1620873744007" />
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup" timestamp="1620763604816">
+      <screen x="94" y="0" width="1186" height="720" />
+    </state>
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup/94.0.1186.720/1280.0.1280.720@94.0.1186.720" timestamp="1620763604816" />
+    <state x="1441" y="0" key="SettingsEditor" timestamp="1625269623320">
+      <screen x="1280" y="0" width="1280" height="720" />
+    </state>
+    <state x="1388" y="0" key="SettingsEditor/0.0.1280.680/1280.0.1280.680@1280.0.1280.680" timestamp="1618954650786" />
+    <state x="1314" y="0" key="SettingsEditor/62.0.1218.720/1280.0.1280.720@1280.0.1280.720" timestamp="1625114533234" />
+    <state x="1441" y="0" key="SettingsEditor/65.0.1215.720/1280.0.1280.720@1280.0.1280.720" timestamp="1625269623320" />
+    <state x="109" y="0" key="SettingsEditor/77.0.1203.720/1280.0.1280.720@77.0.1203.720" timestamp="1622516409715" />
+    <state x="1388" y="0" key="SettingsEditor/93.0.1187.720/1280.0.1280.720@1280.0.1280.720" timestamp="1620454456915" />
+    <state x="1388" y="0" key="SettingsEditor/94.0.1186.720/1280.0.1280.720@1280.0.1280.720" timestamp="1620593286791" />
+    <state x="126" y="0" key="SettingsEditor/94.0.1186.720/1280.0.1280.720@94.0.1186.720" timestamp="1621049701901" />
+    <state x="1702" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1625269624870">
+      <screen x="1280" y="0" width="1280" height="720" />
+    </state>
+    <state x="336" y="174" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1280.0.1280.680@0.0.1280.680" timestamp="1619448730584" />
+    <state x="1702" y="176" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1280.0.1280.680@1280.0.1280.680" timestamp="1619909084726" />
+    <state x="1702" y="186" key="com.intellij.ide.util.TipDialog/62.0.1218.720/1280.0.1280.720@1280.0.1280.720" timestamp="1624166468148" />
+    <state x="464" y="186" key="com.intellij.ide.util.TipDialog/62.0.1218.720/1280.0.1280.720@62.0.1218.720" timestamp="1623165676895" />
+    <state x="1702" y="186" key="com.intellij.ide.util.TipDialog/65.0.1215.720/1280.0.1280.720@1280.0.1280.720" timestamp="1625269624870" />
+    <state x="1702" y="186" key="com.intellij.ide.util.TipDialog/66.0.1214.720/1280.0.1280.720@1280.0.1280.720" timestamp="1625159487026" />
+    <state x="1685" y="162" key="com.intellij.ide.util.TipDialog/69.0.1211.720/1280.0.1280.720@1280.0.1280.720" timestamp="1622815570068" />
+    <state x="1702" y="186" key="com.intellij.ide.util.TipDialog/72.0.1208.720/1280.0.1280.720@1280.0.1280.720" timestamp="1624753054838" />
+    <state x="470" y="186" key="com.intellij.ide.util.TipDialog/72.0.1208.720/1280.0.1280.720@72.0.1208.720" timestamp="1624557961666" />
+    <state x="1685" y="162" key="com.intellij.ide.util.TipDialog/77.0.1203.720/1280.0.1280.720@1280.0.1280.720" timestamp="1622765764798" />
+    <state x="458" y="162" key="com.intellij.ide.util.TipDialog/77.0.1203.720/1280.0.1280.720@77.0.1203.720" timestamp="1622532553592" />
+    <state x="1685" y="162" key="com.intellij.ide.util.TipDialog/80.0.1200.720/1280.0.1280.720@1280.0.1280.720" timestamp="1622237982123" />
+    <state x="1685" y="162" key="com.intellij.ide.util.TipDialog/81.0.1199.720/1280.0.1280.720@1280.0.1280.720" timestamp="1622307014387" />
+    <state x="1702" y="186" key="com.intellij.ide.util.TipDialog/88.0.1192.720/1280.0.1280.720@1280.0.1280.720" timestamp="1625175511961" />
+    <state x="1702" y="186" key="com.intellij.ide.util.TipDialog/93.0.1187.720/1280.0.1280.720@1280.0.1280.720" timestamp="1624083826611" />
+    <state x="1685" y="162" key="com.intellij.ide.util.TipDialog/94.0.1186.720/1280.0.1280.720@1280.0.1280.720" timestamp="1621440322015" />
+    <state x="469" y="162" key="com.intellij.ide.util.TipDialog/94.0.1186.720/1280.0.1280.720@94.0.1186.720" timestamp="1621551815835" />
+    <state x="1624" y="253" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1620456484990">
+      <screen x="1280" y="0" width="1280" height="720" />
+    </state>
+    <state x="1624" y="253" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/94.0.1186.720/1280.0.1280.720@1280.0.1280.720" timestamp="1620456484990" />
+    <state x="1691" y="63" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1620583770303">
+      <screen x="1280" y="0" width="1280" height="720" />
+    </state>
+    <state x="1691" y="63" key="com.intellij.testIntegration.createTest.CreateTestDialog/94.0.1186.720/1280.0.1280.720@1280.0.1280.720" timestamp="1620583770303" />
+    <state x="280" y="80" width="877" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1620762859361">
+      <screen x="94" y="0" width="1186" height="720" />
+    </state>
+    <state x="1481" y="76" width="877" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680/1280.0.1280.680@1280.0.1280.680" timestamp="1618613015588" />
+    <state x="1481" y="80" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/93.0.1187.720/1280.0.1280.720@1280.0.1280.720" timestamp="1620412853532" />
+    <state x="280" y="80" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/94.0.1186.720/1280.0.1280.720@94.0.1186.720" timestamp="1620762859361" />
+    <state x="1537" y="0" width="516" height="679" key="refactoring.ChangeSignatureDialog" timestamp="1624642429143">
+      <screen x="1280" y="0" width="1280" height="720" />
+    </state>
+    <state x="310" y="0" key="refactoring.ChangeSignatureDialog/66.0.1214.720/1280.0.1280.720@66.0.1214.720" timestamp="1624054976627" />
+    <state x="1537" y="0" key="refactoring.ChangeSignatureDialog/72.0.1208.720/1280.0.1280.720@1280.0.1280.720" timestamp="1624642429143" />
+    <state x="1537" y="0" key="refactoring.ChangeSignatureDialog/94.0.1186.720/1280.0.1280.720@1280.0.1280.720" timestamp="1620595356446" />
+    <state x="332" y="0" key="refactoring.ChangeSignatureDialog/94.0.1186.720/1280.0.1280.720@94.0.1186.720" timestamp="1621217070799" />
+    <state x="1533" y="162" key="run.anything.popup" timestamp="1623700621724">
+      <screen x="1280" y="0" width="1280" height="720" />
+    </state>
+    <state x="1576" y="150" key="run.anything.popup/0.0.1280.680/1280.0.1280.680@1280.0.1280.680" timestamp="1618872286435" />
+    <state x="1533" y="162" key="run.anything.popup/65.0.1215.720/1280.0.1280.720@1280.0.1280.720" timestamp="1623700621724" />
+    <state x="1533" y="162" key="run.anything.popup/77.0.1203.720/1280.0.1280.720@1280.0.1280.720" timestamp="1622336559539" />
+    <state x="1576" y="159" key="run.anything.popup/93.0.1187.720/1280.0.1280.720@1280.0.1280.720" timestamp="1620163956380" />
+    <state x="328" y="162" key="run.anything.popup/94.0.1186.720/1280.0.1280.720@94.0.1186.720" timestamp="1620763604819" />
+    <state x="1583" y="41" width="672" height="679" key="search.everywhere.popup" timestamp="1622599075495">
+      <screen x="1280" y="0" width="1280" height="720" />
+    </state>
+    <state x="1583" y="41" width="672" height="679" key="search.everywhere.popup/77.0.1203.720/1280.0.1280.720@1280.0.1280.720" timestamp="1622599075495" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/teste/erro/aula47/Excecao.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
