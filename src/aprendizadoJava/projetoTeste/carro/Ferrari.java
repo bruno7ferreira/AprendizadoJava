@@ -1,4 +1,4 @@
-package projetoTeste.carro;
+package aprendizadoJava.projetoTeste.carro;
 
 public class Ferrari extends Carro implements Esportivo {
 

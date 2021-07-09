@@ -1,4 +1,4 @@
-package teste.arvore_animal;
+package aprendizadoJava.teste.arvore_animal;
 
 public class Gato extends Mamifero implements AnimalEstimacao, AnimalDomesticado {
 

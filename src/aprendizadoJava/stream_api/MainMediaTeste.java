@@ -1,4 +1,4 @@
-package stream_api;
+package aprendizadoJava.stream_api;
 
 import javax.print.attribute.standard.Media;
 import java.util.Arrays;

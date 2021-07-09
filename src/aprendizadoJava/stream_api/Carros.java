@@ -1,4 +1,4 @@
-package stream_api;
+package aprendizadoJava.stream_api;
 
 public class Carros {
 
