@@ -1,4 +1,4 @@
-package lambda;
+package aprendizadoJava.lambda;
 
 public interface InterfaceTeste1 {
 

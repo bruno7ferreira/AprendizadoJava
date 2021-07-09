@@ -1,4 +1,4 @@
-package lambda.predicate;
+package aprendizadoJava.lambda.predicate;
 
 import java.util.function.Predicate;
 

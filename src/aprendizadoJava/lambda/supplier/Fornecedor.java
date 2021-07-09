@@ -1,4 +1,4 @@
-package lambda.supplier;
+package aprendizadoJava.lambda.supplier;
 
 import java.util.Arrays;
 import java.util.List;

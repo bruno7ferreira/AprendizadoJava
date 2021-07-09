@@ -1,4 +1,4 @@
-package padroes.observer;
+package aprendizadoJava.padroes.observer;
 
 public class AniversarioSurpresa {
 

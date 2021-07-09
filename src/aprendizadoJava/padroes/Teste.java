@@ -1,4 +1,4 @@
-package padroes;
+package aprendizadoJava.padroes;
 
 
 import java.text.DecimalFormat;

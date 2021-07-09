@@ -1,4 +1,4 @@
-package lambda.unary_operator;
+package aprendizadoJava.lambda.unary_operator;
 
 import java.util.function.UnaryOperator;
 

@@ -1,4 +1,4 @@
-package lambda;
+package aprendizadoJava.lambda;
 
 import static java.lang.Math.*;
 

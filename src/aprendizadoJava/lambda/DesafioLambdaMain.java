@@ -1,4 +1,4 @@
-package lambda;
+package aprendizadoJava.lambda;
 
 import java.util.function.Function;
 import java.util.function.UnaryOperator;
