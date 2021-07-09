@@ -1,4 +1,4 @@
-package lambda.interface_funcional;
+package aprendizadoJava.lambda.interface_funcional;
 
 public class MainPrincipalPadrao {
 

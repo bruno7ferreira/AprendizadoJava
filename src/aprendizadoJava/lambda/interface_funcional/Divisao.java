@@ -1,6 +1,6 @@
-package lambda.interface_funcional;
+package aprendizadoJava.lambda.interface_funcional;
 
-import lambda.interface_funcional.Calcular;
+//import lambda.interface_funcional.Calcular;
 
 public class Divisao implements Calcular {
 

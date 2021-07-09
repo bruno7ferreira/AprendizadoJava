@@ -1,9 +1,9 @@
-package lambda.interface_funcional;
+package aprendizadoJava.lambda.interface_funcional;
 /**
  * @autor : Bruno Rogério
  */
 
-import lambda.interface_funcional.Calcular;
+//import lambda.interface_funcional.Calcular;
 
 import java.util.function.BinaryOperator;
 
