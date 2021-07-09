@@ -1,4 +1,4 @@
-package threads_.exercicio;
+package aprendizadoJava.threads_.exercicio;
 
 public class ThreadSemafaro implements Runnable {
 

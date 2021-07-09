@@ -1,4 +1,4 @@
-package threads_;
+package aprendizadoJava.threads_;
 
 public class MainTesteTiqueTaque {
 
