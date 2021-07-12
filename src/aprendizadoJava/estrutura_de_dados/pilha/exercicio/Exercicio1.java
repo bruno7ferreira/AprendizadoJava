@@ -1,4 +1,4 @@
-package estrutura_de_dados.pilha.exercicio;
+package aprendizadoJava.estrutura_de_dados.pilha.exercicio;
 
 import java.util.ArrayList;
 import java.util.Scanner;
