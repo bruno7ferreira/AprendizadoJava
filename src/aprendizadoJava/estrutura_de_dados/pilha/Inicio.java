@@ -1,4 +1,4 @@
-package estrutura_de_dados.pilha;
+package aprendizadoJava.estrutura_de_dados.pilha;
 
 import java.util.Stack;
 

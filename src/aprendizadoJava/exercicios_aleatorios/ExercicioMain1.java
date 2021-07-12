@@ -1,4 +1,4 @@
-package exercicios_aleatorios;
+package aprendizadoJava.exercicios_aleatorios;
 
 import org.w3c.dom.ls.LSOutput;
 

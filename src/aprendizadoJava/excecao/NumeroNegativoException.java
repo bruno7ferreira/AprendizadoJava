@@ -1,4 +1,4 @@
-package excecao;
+package aprendizadoJava.excecao;
 
 import java.util.stream.Stream;
 

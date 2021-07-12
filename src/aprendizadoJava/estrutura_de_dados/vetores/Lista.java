@@ -1,4 +1,4 @@
-package estrutura_de_dados.vetores;
+package aprendizadoJava.estrutura_de_dados.vetores;
 
 import java.util.ArrayList;
 

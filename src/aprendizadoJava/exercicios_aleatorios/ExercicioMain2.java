@@ -1,4 +1,4 @@
-package exercicios_aleatorios;
+package aprendizadoJava.exercicios_aleatorios;
 
 public class ExercicioMain2 {
 }
