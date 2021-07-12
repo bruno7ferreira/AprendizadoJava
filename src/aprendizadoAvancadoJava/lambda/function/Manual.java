@@ -16,11 +16,18 @@ public class Manual {
 
         Function<String, String> empolgado = x -> x + "!!";
 
+        Function<String, String> duvida = v -> v + "??";
+
         String resultadoFinal = parOuImpar
                 .andThen(oResutladoE) //Função encadeada
                 .andThen(empolgado) //Função encadeada
                 .apply(27);
         System.out.println(resultadoFinal);
+
+        String resutladoFinal2 = parOuImpar
+                .andThen(duvida)
+                .apply(33);
+        System.out.println(resutladoFinal2);
 
     }
 }
