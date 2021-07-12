@@ -1,6 +1,5 @@
-package lambda.binary_operator_and_bifunction;
+package aprendizadoJava.lambda.binary_operator_and_bifunction;
 
-import org.w3c.dom.ls.LSOutput;
 
 import java.util.function.BiFunction;
 import java.util.function.BinaryOperator;

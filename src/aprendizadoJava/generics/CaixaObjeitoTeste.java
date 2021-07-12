@@ -1,4 +1,4 @@
-package generics;
+package aprendizadoJava.generics;
 
 public class CaixaObjeitoTeste {
 

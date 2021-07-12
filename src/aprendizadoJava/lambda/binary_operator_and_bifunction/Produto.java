@@ -1,4 +1,4 @@
-package lambda.binary_operator_and_bifunction;
+package aprendizadoJava.lambda.binary_operator_and_bifunction;
 
 public class Produto {
 

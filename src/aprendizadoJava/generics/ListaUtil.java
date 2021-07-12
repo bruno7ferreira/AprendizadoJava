@@ -1,4 +1,4 @@
-package generics;
+package aprendizadoJava.generics;
 
 import java.util.List;
 

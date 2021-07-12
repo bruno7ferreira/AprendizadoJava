@@ -1,4 +1,4 @@
-package interfacesGraficas;
+package aprendizadoJava.interfacesGraficas;
 
 import javax.swing.*;
 
