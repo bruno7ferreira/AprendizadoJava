@@ -1,4 +1,4 @@
-package _enum.exercicio_calculadora;
+package aprendizadoJava._enum.exercicio_calculadora;
 
 public class Inicio {
 

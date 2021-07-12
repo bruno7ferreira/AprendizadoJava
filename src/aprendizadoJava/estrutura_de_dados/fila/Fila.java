@@ -1,4 +1,4 @@
-package estrutura_de_dados.fila;
+package aprendizadoJava.estrutura_de_dados.fila;
 
 import java.util.LinkedList;
 import java.util.Queue;

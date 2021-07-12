@@ -1,4 +1,4 @@
-package _enum;
+package aprendizadoJava._enum;
 
 public enum DiaDaSemanaEnum {
 

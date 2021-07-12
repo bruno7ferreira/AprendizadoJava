@@ -1,4 +1,4 @@
-package estrutura_de_dados.fila.exercicio1;
+package aprendizadoJava.estrutura_de_dados.fila.exercicio1;
 
 public class Pessoa {
 

@@ -1,4 +1,4 @@
-package desafio;
+package aprendizadoJava.desafio;
 
 public class Main {
 }

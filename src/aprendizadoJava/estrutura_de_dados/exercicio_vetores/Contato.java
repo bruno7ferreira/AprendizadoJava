@@ -1,4 +1,4 @@
-package estrutura_de_dados.exercicio_vetores;
+package aprendizadoJava.estrutura_de_dados.exercicio_vetores;
 
 import java.util.Objects;
 

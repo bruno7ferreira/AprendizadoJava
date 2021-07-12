@@ -1,4 +1,4 @@
-package estrutura_de_dados.fila;
+package aprendizadoJava.estrutura_de_dados.fila;
 
 public class Paciente implements Comparable<Paciente> {
 

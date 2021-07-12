@@ -1,4 +1,4 @@
-package desafio.desafio_sobreposicao_classes;
+package aprendizadoJava.desafio.desafio_sobreposicao_classes;
 
 public class Feijao extends Comida {
 
