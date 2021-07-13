@@ -18,5 +18,6 @@ public class Exemplo {
         System.out.println(resultado.apply(7.0, 5.3));
         System.out.println(resultado2.apply(8.0, 9.1));
 
+
     }
 }
