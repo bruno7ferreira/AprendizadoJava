@@ -28,7 +28,10 @@ public class CriandoConsumer {
         Arrays.stream(maisCarros, 1, 3).forEach(imprime);
 
         List<String> outrosCarros = Arrays.asList("Civic", "Jetta", "Tjet", "Creta");
-        outrosCarros.stream().
+        outrosCarros.parallelStream().forEach(imprime);
+
+
+
 
     }
 
