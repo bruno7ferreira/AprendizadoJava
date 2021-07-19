@@ -49,10 +49,12 @@ public class Filter {
                 x -> "Parabéns " + x.getNome() + "! você foi aprovado com a nota: " + x.getNota();
 
         claseDeAluno.stream()
-                .filter(n -> n.getNota() >= 7)
+                .filter(aprovado)
+                //.filter(n -> n.getNota() >= 7)
                 .map(saudaAprovado)
                 //.map(a -> "Parabéns " + a.getNome() + "! você foi aprovado com a nota: " + a.getNota())
                 .forEach(System.out::println);
+
 
 
     }
