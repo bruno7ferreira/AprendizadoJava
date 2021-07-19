@@ -5,6 +5,8 @@ import aprendizadoAvancadoJava.stream_api.Aluno;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Consumer;
+import java.util.function.Function;
+import java.util.function.Predicate;
 
 public class Filter {
 
@@ -28,6 +30,29 @@ public class Filter {
         claseDeAluno.add(a6);
 
         claseDeAluno.forEach(imprimir);
+        System.out.println("---");
+
+        claseDeAluno.stream()
+                .filter(a -> a.getNota() >= 9)
+                .forEach(imprimir);
+
+        System.out.println("---");
+
+        claseDeAluno.stream()
+                .filter(x -> x.getNota() <= 8.9)
+                .forEach(imprimir);
+        System.out.println("---");
+
+        Predicate<Aluno> aprovado = x -> x.getNota() >= 7;
+        Predicate<Aluno> reprovado = x -> x.getNota() < 7;
+        Function<Aluno, String> saudaAprovado =
+                x -> "Parabéns " + x.getNome() + "! você foi aprovado com a nota: " + x.getNota();
+
+        claseDeAluno.stream()
+                .filter(n -> n.getNota() >= 7)
+                .map(saudaAprovado)
+                //.map(a -> "Parabéns " + a.getNome() + "! você foi aprovado com a nota: " + a.getNota())
+                .forEach(System.out::println);
 
 
     }
