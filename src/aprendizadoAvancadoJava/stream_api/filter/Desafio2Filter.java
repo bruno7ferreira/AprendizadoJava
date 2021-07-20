@@ -4,10 +4,7 @@ import aprendizadoAvancadoJava.stream_api.Produto;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.function.BinaryOperator;
-import java.util.function.Consumer;
-import java.util.function.Function;
-import java.util.function.Predicate;
+import java.util.function.*;
 
 public class Desafio2Filter {
 
@@ -26,13 +23,22 @@ public class Desafio2Filter {
         Predicate<Produto> FreteGratis = f -> f.getValorFrete() == 0;
         Predicate<Produto> importante = i -> i.getPreco() >= 500;
 
+        Function<Produto, String> valorLiquido = (x) -> {
+            double valorReal = 0;
+            valorReal = (x.getPreco() + x.getValorFrete());
+            double valorComDesconto;
+            valorComDesconto = valorReal - (valorReal * x.getDesconto());
+            return "Valor do Produto " + x.getPreco() + "O valor com frete " + valorReal +
+                    " Valor total com o desconto: " + valorComDesconto;
+        };
+
         Function<Produto, String> status = s -> "Produto: '" + s.getNome() + "' valor: " + s.getPreco();
 
 
-
-                listaProdutos.stream()
+        listaProdutos.stream()
                 .filter(importante)
-                .map(status)
+                .map(valorLiquido)
+                //.map(status)
                 .forEach(System.out::println);
 
 
