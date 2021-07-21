@@ -24,6 +24,11 @@ public class Reduce {
                 .reduce(100, soma);
         System.out.println(total2);
 
+        numeros.stream()
+                .filter(n -> n > 5)
+                .reduce(soma)
+                .ifPresent(System.out::println);
+
 
     }
 
