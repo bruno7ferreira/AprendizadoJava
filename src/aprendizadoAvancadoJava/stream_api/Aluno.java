@@ -10,6 +10,7 @@ public class Aluno {
         this.nota = nota;
     }
 
+
     public String getNome() {
         return nome;
     }

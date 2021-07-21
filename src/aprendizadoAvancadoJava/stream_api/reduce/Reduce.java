@@ -29,6 +29,12 @@ public class Reduce {
                 .reduce(soma)
                 .ifPresent(System.out::println);
 
+        
+
+
+
+
+
 
     }
 
