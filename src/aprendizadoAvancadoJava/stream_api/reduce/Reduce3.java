@@ -27,9 +27,16 @@ public class Reduce3 {
         BiFunction<Media, Double, Media> calcularMedia =
                 (media, nota) -> media.adicionar(nota);
 
-        listaAlunos.stream()
+        BinaryOperator<Media> combinarMedia =
+                (media1, media2) -> Media.combinar(media1, media2);
+
+
+        Media media = listaAlunos.stream()
                 .filter(aprovado)
-                .map(apenasNota);
+                .map(apenasNota)
+                .reduce(new Media(), calcularMedia, combinarMedia);
+
+        System.out.println("Media do aluno: " + media.getValue());
 
 
     }
