@@ -31,6 +31,7 @@ public class Reduce3 {
                 (media1, media2) -> Media.combinar(media1, media2);
 
 
+        //Forma complexa utilizando o Reduce
         Media media = listaAlunos.stream()
                 .filter(aprovado)
                 .map(apenasNota)
