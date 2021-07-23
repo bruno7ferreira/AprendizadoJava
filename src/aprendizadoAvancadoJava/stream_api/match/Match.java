@@ -25,5 +25,9 @@ public class Match {
         //anyMatch = pelo menos uma condição verdadeira já retorna true
         System.out.println(listaAlunos.stream().anyMatch(aprovado));
 
+        //noneMatch = todas as condiçoes são falsas para retornar verdadeiro
+        System.out.println(listaAlunos.stream().noneMatch(aprovado));
+        System.out.println(listaAlunos.stream().noneMatch(aprovado.negate()));
+
     }
 }
