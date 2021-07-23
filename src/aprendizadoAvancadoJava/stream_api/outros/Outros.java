@@ -25,6 +25,29 @@ public class Outros {
                 .distinct()
                 .forEach(System.out::println);
 
+        //Skip = pula o número determinado de itens no inicio da coleção
+        listaAlunos.stream()
+                .distinct()
+                .skip(1)
+                .forEach(System.out::println);
+
+        System.out.println("------");
+        //Limit = limita a coleção a apenas 2 elementos
+        listaAlunos.stream()
+                .distinct()
+                .limit(2)
+                .forEach(System.out::println);
+
+        System.out.println("---------------");
+
+        //takeWhile = continua a execução enquanto a condição for true, quando uma condição false e encontrada,
+        // a execução da coleção/list e parada
+
+        listaAlunos.stream()
+                .distinct()
+                .takeWhile(a -> a.getNota() >= 7)
+                .forEach(System.out::println);
+
 
     }
 }
