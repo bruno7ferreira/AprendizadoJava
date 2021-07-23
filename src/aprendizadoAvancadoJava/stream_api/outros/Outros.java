@@ -16,9 +16,15 @@ public class Outros {
         Aluno a5 = new Aluno("Alexandra", 7.1);
         Aluno a6 = new Aluno("Maria Clara", 6.1);
         Aluno a7 = new Aluno("Paulo", 8.1);
-        Aluno a8 = new Aluno("Lucicleia", 9.0);
+        Aluno a8 = new Aluno("Kobe", 9.0);
 
         List<Aluno> listaAlunos = Arrays.asList(a1, a2, a3, a4, a5, a6, a7, a8);
+
+        //Distinct = remove duplicidade no lista/conjunto
+        listaAlunos.stream()
+                .distinct()
+                .forEach(System.out::println);
+
 
     }
 }
