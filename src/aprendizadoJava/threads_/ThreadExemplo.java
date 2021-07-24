@@ -2,6 +2,9 @@ package aprendizadoJava.threads_;
 
 public class ThreadExemplo {
 
+    public static void main(String[] args) {
+
+    }
 
 }
 
