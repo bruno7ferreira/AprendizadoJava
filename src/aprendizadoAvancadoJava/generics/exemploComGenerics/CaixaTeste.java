@@ -6,8 +6,12 @@ public class CaixaTeste {
 
         Caixa<String> caixaA = new Caixa<>();
         caixaA.guardarCoisa("Segredo!");
-
         System.out.println(caixaA.pegarCoisa());
+
+        Caixa<Double> caixaB = new Caixa<>();
+        caixaB.guardarCoisa(10.0);
+        Double v = caixaB.pegarCoisa();
+        System.out.println(v);
 
 
     }
