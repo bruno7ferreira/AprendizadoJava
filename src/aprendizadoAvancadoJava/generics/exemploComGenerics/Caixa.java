@@ -1,14 +1,14 @@
 package aprendizadoAvancadoJava.generics.exemploComGenerics;
 
-public class Caixa {
+public class Caixa<T> {
 
-    private Object coisa;
+    private T coisa;
 
-    public Object pegarCoisa() {
+    public T pegarCoisa() {
         return coisa;
     }
 
-    public void guardarCoisa(Object coisa) {
+    public void guardarCoisa(T coisa) {
         this.coisa = coisa;
     }
 }
