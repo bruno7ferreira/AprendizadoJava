@@ -4,7 +4,10 @@ public class CaixaTeste {
 
     public static void main(String[] args) {
 
+        // sintaxe <>
+        //exemplo <tipo>
         Caixa<String> caixaA = new Caixa<>();
+
         caixaA.guardarCoisa("Segredo!");
         System.out.println(caixaA.pegarCoisa());
 
