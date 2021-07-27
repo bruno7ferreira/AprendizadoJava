@@ -1,4 +1,4 @@
-package teste.erro.aula48;
+package aprendizadoJava.teste.erro.aula48;
 
 public class MultiplosCatchGenerico {
 

@@ -12,7 +12,7 @@ public class CaixaObjeto {
     }
 
     // retornar algo do atributo, semelhante ao método Get
-    public Object pegarCoisa() {
+    public Object abrirCoisa() {
         return coisa;
     }
 
