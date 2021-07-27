@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af502199-c608-472f-8b7a-05166234d2b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/aprendizadoAvancadoJava/generics/exemploSemGenerics/CaixaObjetoTeste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aprendizadoAvancadoJava/generics/exemploSemGenerics/CaixaObjeto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aprendizadoAvancadoJava/generics/exemploSemGenerics/CaixaObjeto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aprendizadoAvancadoJava/generics/herancaGenerics/CaixaInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aprendizadoAvancadoJava/generics/herancaGenerics/CaixaIntTeste.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +27,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -36,8 +40,25 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.CaixaIntTeste">
+    <configuration name="CaixaIntTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aprendizadoAvancadoJava.generics.herancaGenerics.CaixaIntTeste" />
+      <module name="projetoOneEstudo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aprendizadoAvancadoJava.generics.herancaGenerics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CaixaObjetoTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aprendizadoAvancadoJava.generics.exemploSemGenerics.CaixaObjetoTeste" />
       <module name="projetoOneEstudo" />
@@ -51,8 +72,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CaixaTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aprendizadoAvancadoJava.generics.exemploComGenerics.CaixaTeste" />
+      <module name="projetoOneEstudo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aprendizadoAvancadoJava.generics.exemploComGenerics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CaixaIntTeste" />
+        <item itemvalue="Application.CaixaTeste" />
         <item itemvalue="Application.CaixaObjetoTeste" />
       </list>
     </recent_temporary>
@@ -70,7 +106,8 @@
       <workItem from="1627342309492" duration="582000" />
       <workItem from="1627342897257" duration="867000" />
       <workItem from="1627396014592" duration="73000" />
-      <workItem from="1627396105861" duration="2791000" />
+      <workItem from="1627396105861" duration="7443000" />
+      <workItem from="1627419453681" duration="920000" />
     </task>
     <task id="LOCAL-00001" summary="Atualização.">
       <created>1627343151003</created>
@@ -86,7 +123,35 @@
       <option name="project" value="LOCAL" />
       <updated>1627412072231</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Atualização.">
+      <created>1627415317211</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1627415317211</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Atualização.">
+      <created>1627418104906</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1627418104906</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Atualização.">
+      <created>1627419415513</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1627419415513</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Atualização.">
+      <created>1627419655058</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1627419655058</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,24 +162,59 @@
     <option name="LAST_COMMIT_MESSAGE" value="Atualização." />
   </component>
   <component name="WindowStateProjectService">
+    <state x="0" y="88" key="#com.intellij.ide.util.MemberChooser" timestamp="1627415274490">
+      <screen x="73" y="0" width="1207" height="720" />
+    </state>
+    <state x="0" y="88" key="#com.intellij.ide.util.MemberChooser/73.0.1207.720/1280.0.1280.680@73.0.1207.720" timestamp="1627415274490" />
     <state x="524" y="249" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1627342924857">
       <screen x="73" y="0" width="1207" height="720" />
     </state>
     <state x="524" y="249" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/73.0.1207.720/1280.0.1280.680@73.0.1207.720" timestamp="1627342924857" />
-    <state x="1512" y="0" key="CommitChangelistDialog2" timestamp="1627412071482">
+    <state x="1512" y="0" key="CommitChangelistDialog2" timestamp="1627419654167">
       <screen x="1280" y="0" width="1280" height="680" />
     </state>
     <state x="1512" y="0" key="CommitChangelistDialog2/73.0.1207.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627412071482" />
-    <state x="292" y="0" key="CommitChangelistDialog2/73.0.1207.720/1280.0.1280.680@73.0.1207.720" timestamp="1627343150139" />
-    <state x="1487" y="88" key="Vcs.Push.Dialog.v2" timestamp="1627412084643">
+    <state x="292" y="0" key="CommitChangelistDialog2/73.0.1207.720/1280.0.1280.680@73.0.1207.720" timestamp="1627415315758" />
+    <state x="1512" y="0" key="CommitChangelistDialog2/85.0.1195.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627419654167" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1627419434906">
+      <screen x="1280" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/73.0.1207.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627413259874" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/85.0.1195.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627419434906" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1627419434905">
+      <screen x="1280" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/73.0.1207.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627413259874" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center/85.0.1195.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627419434905" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1627419434905">
+      <screen x="1280" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/73.0.1207.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627413259874" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left/85.0.1195.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627419434905" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1627419434905">
+      <screen x="1280" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/73.0.1207.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627413259874" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right/85.0.1195.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627419434905" />
+    <state x="1401" y="0" key="SettingsEditor" timestamp="1627419399011">
+      <screen x="1280" y="0" width="1280" height="680" />
+    </state>
+    <state x="1401" y="0" key="SettingsEditor/85.0.1195.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627419399011" />
+    <state x="1487" y="88" key="Vcs.Push.Dialog.v2" timestamp="1627419661049">
       <screen x="1280" y="0" width="1280" height="680" />
     </state>
     <state x="1487" y="88" key="Vcs.Push.Dialog.v2/73.0.1207.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627412084643" />
-    <state x="268" y="93" key="Vcs.Push.Dialog.v2/73.0.1207.720/1280.0.1280.680@73.0.1207.720" timestamp="1627343162053" />
-    <state x="1598" y="174" key="com.intellij.ide.util.TipDialog" timestamp="1627396107350">
+    <state x="268" y="93" key="Vcs.Push.Dialog.v2/73.0.1207.720/1280.0.1280.680@73.0.1207.720" timestamp="1627415325824" />
+    <state x="1487" y="88" key="Vcs.Push.Dialog.v2/85.0.1195.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627419661049" />
+    <state x="1598" y="174" key="com.intellij.ide.util.TipDialog" timestamp="1627419456048">
       <screen x="1280" y="0" width="1280" height="680" />
     </state>
     <state x="1598" y="174" key="com.intellij.ide.util.TipDialog/73.0.1207.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627396107350" />
     <state x="373" y="184" key="com.intellij.ide.util.TipDialog/73.0.1207.720/1280.0.1280.680@73.0.1207.720" timestamp="1627396016969" />
+    <state x="1598" y="174" key="com.intellij.ide.util.TipDialog/85.0.1195.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627419456048" />
+    <state x="1656" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1627412827412">
+      <screen x="1280" y="0" width="1280" height="680" />
+    </state>
+    <state x="1656" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/73.0.1207.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627412827412" />
   </component>
 </project>
