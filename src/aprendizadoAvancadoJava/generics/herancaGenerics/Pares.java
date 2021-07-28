@@ -24,7 +24,7 @@ public class Pares<C extends Number, V> {
                 .filter(cvPar -> chave.equals(cvPar.getChave()))
                 .findFirst();
 
-        return parOptional.isPresent()
+        return  parOptional.isPresent()
                 ? parOptional.get().getValor() : null;
     }
 
