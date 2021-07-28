@@ -10,7 +10,7 @@ public class ParesTeste {
         resultadoConcurso.adicionar(2, "Alexandra");
         resultadoConcurso.adicionar(3, "Paulo");
         resultadoConcurso.adicionar(4, "Lucicleia");
-        resultadoConcurso.adicionar(2, "Bruno Rogério");
+        resultadoConcurso.adicionar(1, "Bruno Rogério");
 
         System.out.println(resultadoConcurso.getValor(1));
         System.out.println(resultadoConcurso.getValor(2));
