@@ -14,7 +14,9 @@ public class ListaComGenericsTeste {
         String ultimoCarro2 = ListaComGenerics.getUltimo2(carros2);
         System.out.println(ultimoCarro2);
 
-        Integer ultimoNumero2 = ListaComGenerics.getUltimo2(numeros2);
+        //Explicitando o tipo
+        Integer ultimoNumero2 = ListaComGenerics.<Integer>getUltimo2(numeros2);
+        // ou maneira comum // Integer ultimoNumero2 = ListaComGenerics.getUltimo2(numeros2);
         System.out.println(ultimoNumero2);
 
 
