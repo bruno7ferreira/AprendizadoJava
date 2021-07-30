@@ -23,6 +23,10 @@ public class Basico {
 
         System.out.println("Teste");
 
+        //tipos de Exceção
+
+        //RuntimeExpection = não checada ou não verificada
+
 
     }
 
