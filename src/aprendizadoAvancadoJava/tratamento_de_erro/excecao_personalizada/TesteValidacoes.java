@@ -6,8 +6,16 @@ public class TesteValidacoes {
 
     public static void main(String[] args) {
 
-        Aluno aluno1 = new Aluno("", -7.0);
-        Validar.aluno(aluno1);
+        try {
+            Aluno aluno1 = new Aluno("Bruno", -7.0);
+            Validar.aluno(aluno1);
+        } catch (StringVaziaException e) {
+            System.out.println("Mensagem de erro-> " + e.getMessage());
+        } catch (NumeroForaIntervaloException e) {
+            System.out.println("Mensagem de erro-> " + e.getMessage());
+        }
+
+
         System.out.println("Fim!");
 
     }
