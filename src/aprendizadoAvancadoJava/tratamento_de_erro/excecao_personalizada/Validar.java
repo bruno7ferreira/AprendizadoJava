@@ -2,7 +2,7 @@ package aprendizadoAvancadoJava.tratamento_de_erro.excecao_personalizada;
 
 import aprendizadoAvancadoJava.tratamento_de_erro.Aluno;
 
-public class Validar {
+public abstract class  Validar {
 
     private Validar() {
 
