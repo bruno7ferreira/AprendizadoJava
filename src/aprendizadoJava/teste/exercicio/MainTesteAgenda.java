@@ -1,8 +1,5 @@
 package aprendizadoJava.teste.exercicio;
 
-import teste.exercicio.Agenda;
-import teste.exercicio.Contato;
-
 import java.util.Scanner;
 
 public class MainTesteAgenda {

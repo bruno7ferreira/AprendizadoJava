@@ -1,7 +1,5 @@
 package aprendizadoJava.teste.exercicio;
 
-import teste.exercicio.Livro;
-
 public class LivroDeLivraria extends Livro {
 
     private int numerosPaginas;
