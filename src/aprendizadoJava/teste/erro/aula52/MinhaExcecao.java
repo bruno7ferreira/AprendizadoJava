@@ -1,4 +1,4 @@
-package teste.erro.aula52;
+package aprendizadoJava.teste.erro.aula52;
 
 public class MinhaExcecao {
 

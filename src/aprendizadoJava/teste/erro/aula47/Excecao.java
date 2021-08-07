@@ -1,4 +1,4 @@
-package teste.erro.aula47;
+package aprendizadoJava.teste.erro.aula47;
 
 public class Excecao {
 

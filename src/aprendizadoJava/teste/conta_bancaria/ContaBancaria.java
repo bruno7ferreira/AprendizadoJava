@@ -1,4 +1,4 @@
-package teste.conta_bancaria;
+package aprendizadoJava.teste.conta_bancaria;
 
 import java.util.Objects;
 

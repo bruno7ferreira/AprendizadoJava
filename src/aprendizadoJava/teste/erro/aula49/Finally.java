@@ -1,4 +1,4 @@
-package teste.erro.aula49;
+package aprendizadoJava.teste.erro.aula49;
 
 public class Finally {
 

@@ -1,4 +1,4 @@
-package teste.erro.aula50;
+package aprendizadoJava.teste.erro.aula50;
 
 import javax.swing.*;
 import java.util.Scanner;
