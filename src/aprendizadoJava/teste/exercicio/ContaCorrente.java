@@ -1,4 +1,4 @@
-package teste.exercicio;
+package aprendizadoJava.teste.exercicio;
 
 import org.w3c.dom.ls.LSOutput;
 

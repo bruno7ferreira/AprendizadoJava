@@ -1,4 +1,4 @@
-package teste.exercicio;
+package aprendizadoJava.teste.exercicio;
 
 public abstract class Pessoa {
 
