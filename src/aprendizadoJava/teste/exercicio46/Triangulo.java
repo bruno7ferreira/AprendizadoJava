@@ -1,4 +1,4 @@
-package teste.exercicio46;
+package aprendizadoJava.teste.exercicio46;
 
 public class Triangulo extends Figura2D {
 

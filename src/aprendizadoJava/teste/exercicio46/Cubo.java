@@ -1,4 +1,4 @@
-package teste.exercicio46;
+package aprendizadoJava.teste.exercicio46;
 
 public class Cubo extends Figura3D {
 

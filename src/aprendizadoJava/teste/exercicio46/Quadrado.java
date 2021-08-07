@@ -1,4 +1,4 @@
-package teste.exercicio46;
+package aprendizadoJava.teste.exercicio46;
 
 import java.util.Objects;
 
