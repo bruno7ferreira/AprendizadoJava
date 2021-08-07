@@ -1,4 +1,4 @@
-package teste.zoologico;
+package aprendizadoJava.teste.zoologico;
 
 import java.util.Objects;
 
