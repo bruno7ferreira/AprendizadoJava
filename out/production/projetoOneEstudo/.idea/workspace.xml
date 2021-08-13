@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af502199-c608-472f-8b7a-05166234d2b0" name="Default Changelist" comment="Praticando modularização.">
-      <change afterPath="$PROJECT_DIR$/src/aprendizadoJava/teste/teste_aleatorios/DesafiosDio.java" afterDir="false" />
+    <list default="true" id="af502199-c608-472f-8b7a-05166234d2b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/aprendizadoJava/teste/teste_aleatorios/DesafioDio2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,9 +52,9 @@
       <recent name="aprendizadoAvancadoJava.tratamento_de_erro" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DesafiosDio">
-    <configuration name="Basico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aprendizadoAvancadoJava.tratamento_de_erro.Basico" />
+  <component name="RunManager" selected="Application.DesafioDio2">
+    <configuration name="ChecadaXnaoChecada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aprendizadoAvancadoJava.tratamento_de_erro.ChecadaXnaoChecada" />
       <module name="projetoOneEstudo" />
       <extension name="coverage">
         <pattern>
@@ -66,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChecadaXnaoChecada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aprendizadoAvancadoJava.tratamento_de_erro.ChecadaXnaoChecada" />
+    <configuration name="DesafioDio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aprendizadoJava.teste.teste_aleatorios.DesafioDio2" />
       <module name="projetoOneEstudo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aprendizadoAvancadoJava.tratamento_de_erro.*" />
+          <option name="PATTERN" value="aprendizadoJava.teste.teste_aleatorios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DesafioDio2" />
         <item itemvalue="Application.DesafiosDio" />
         <item itemvalue="Application.Finally" />
         <item itemvalue="Application.TesteValidacoes" />
         <item itemvalue="Application.ChecadaXnaoChecada" />
-        <item itemvalue="Application.Basico" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +151,8 @@
       <workItem from="1627784010187" duration="54000" />
       <workItem from="1628372378371" duration="5347000" />
       <workItem from="1628448709055" duration="4774000" />
-      <workItem from="1628745973591" duration="306000" />
+      <workItem from="1628745973591" duration="3491000" />
+      <workItem from="1628787865357" duration="1781000" />
     </task>
     <task id="LOCAL-00001" summary="Atualização.">
       <created>1627343151003</created>
@@ -405,7 +406,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628451460462</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Praticando modularização.">
+      <created>1628749429805</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1628749429805</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -440,11 +448,11 @@
       <screen x="1280" y="0" width="1280" height="680" />
     </state>
     <state x="1562" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/68.0.1212.720/1280.0.1280.680@1280.0.1280.680" timestamp="1628374479254" />
-    <state x="1701" y="0" key="CommitChangelistDialog2" timestamp="1628452196727">
+    <state x="1701" y="0" key="CommitChangelistDialog2" timestamp="1628749428675">
       <screen x="1280" y="0" width="1280" height="680" />
     </state>
     <state x="1512" y="0" key="CommitChangelistDialog2/62.0.1218.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627784022303" />
-    <state x="1701" y="0" key="CommitChangelistDialog2/68.0.1212.720/1280.0.1280.680@1280.0.1280.680" timestamp="1628452196727" />
+    <state x="1701" y="0" key="CommitChangelistDialog2/68.0.1212.720/1280.0.1280.680@1280.0.1280.680" timestamp="1628749428675" />
     <state x="1512" y="0" key="CommitChangelistDialog2/73.0.1207.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627412071482" />
     <state x="292" y="0" key="CommitChangelistDialog2/73.0.1207.720/1280.0.1280.680@73.0.1207.720" timestamp="1627415315758" />
     <state x="1512" y="0" key="CommitChangelistDialog2/85.0.1195.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627423987658" />
@@ -454,31 +462,35 @@
     </state>
     <state x="1628" y="82" key="FileChooserDialogImpl/62.0.1218.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627784064003" />
     <state x="1628" y="82" key="FileChooserDialogImpl/68.0.1212.720/1280.0.1280.680@1280.0.1280.680" timestamp="1628452212447" />
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1627779481663">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1628750575986">
       <screen x="1280" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="163" key="GridCell.Tab.0.bottom/62.0.1218.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627779481663" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/68.0.1212.720/1280.0.1280.680@1280.0.1280.680" timestamp="1628750575986" />
     <state width="1237" height="163" key="GridCell.Tab.0.bottom/73.0.1207.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627413259874" />
     <state width="1237" height="163" key="GridCell.Tab.0.bottom/85.0.1195.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627422799562" />
     <state width="1237" height="163" key="GridCell.Tab.0.bottom/93.0.1187.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627499066044" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1627779481662">
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1628750575986">
       <screen x="1280" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="163" key="GridCell.Tab.0.center/62.0.1218.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627779481662" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center/68.0.1212.720/1280.0.1280.680@1280.0.1280.680" timestamp="1628750575986" />
     <state width="1237" height="163" key="GridCell.Tab.0.center/73.0.1207.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627413259874" />
     <state width="1237" height="163" key="GridCell.Tab.0.center/85.0.1195.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627422799562" />
     <state width="1237" height="163" key="GridCell.Tab.0.center/93.0.1187.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627499066044" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1627779481662">
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1628750575985">
       <screen x="1280" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="163" key="GridCell.Tab.0.left/62.0.1218.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627779481662" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left/68.0.1212.720/1280.0.1280.680@1280.0.1280.680" timestamp="1628750575985" />
     <state width="1237" height="163" key="GridCell.Tab.0.left/73.0.1207.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627413259874" />
     <state width="1237" height="163" key="GridCell.Tab.0.left/85.0.1195.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627422799562" />
     <state width="1237" height="163" key="GridCell.Tab.0.left/93.0.1187.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627499066044" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1627779481662">
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1628750575986">
       <screen x="1280" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="163" key="GridCell.Tab.0.right/62.0.1218.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627779481662" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right/68.0.1212.720/1280.0.1280.680@1280.0.1280.680" timestamp="1628750575986" />
     <state width="1237" height="163" key="GridCell.Tab.0.right/73.0.1207.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627413259874" />
     <state width="1237" height="163" key="GridCell.Tab.0.right/85.0.1195.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627422799562" />
     <state width="1237" height="163" key="GridCell.Tab.0.right/93.0.1187.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627499066044" />
@@ -495,11 +507,11 @@
     </state>
     <state x="1401" y="0" key="SettingsEditor/62.0.1218.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627778095987" />
     <state x="1401" y="0" key="SettingsEditor/85.0.1195.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627419399011" />
-    <state x="1395" y="71" key="Vcs.Push.Dialog.v2" timestamp="1628452005186">
+    <state x="1395" y="71" key="Vcs.Push.Dialog.v2" timestamp="1628749436013">
       <screen x="1280" y="0" width="1280" height="680" />
     </state>
     <state x="1487" y="88" key="Vcs.Push.Dialog.v2/62.0.1218.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627784036466" />
-    <state x="1395" y="71" key="Vcs.Push.Dialog.v2/68.0.1212.720/1280.0.1280.680@1280.0.1280.680" timestamp="1628452005186" />
+    <state x="1395" y="71" key="Vcs.Push.Dialog.v2/68.0.1212.720/1280.0.1280.680@1280.0.1280.680" timestamp="1628749436013" />
     <state x="1487" y="88" key="Vcs.Push.Dialog.v2/73.0.1207.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627412084643" />
     <state x="268" y="93" key="Vcs.Push.Dialog.v2/73.0.1207.720/1280.0.1280.680@73.0.1207.720" timestamp="1627415325824" />
     <state x="1487" y="88" key="Vcs.Push.Dialog.v2/85.0.1195.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627424211049" />
@@ -508,11 +520,11 @@
       <screen x="1280" y="0" width="1280" height="680" />
     </state>
     <state x="1737" y="119" key="chooseDestDirectoryDialog/68.0.1212.720/1280.0.1280.680@1280.0.1280.680" timestamp="1628374254095" />
-    <state x="1598" y="174" key="com.intellij.ide.util.TipDialog" timestamp="1628448753659">
+    <state x="1598" y="174" key="com.intellij.ide.util.TipDialog" timestamp="1628787865805">
       <screen x="1280" y="0" width="1280" height="680" />
     </state>
     <state x="1598" y="174" key="com.intellij.ide.util.TipDialog/62.0.1218.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627783592926" />
-    <state x="1598" y="174" key="com.intellij.ide.util.TipDialog/68.0.1212.720/1280.0.1280.680@1280.0.1280.680" timestamp="1628448753659" />
+    <state x="1598" y="174" key="com.intellij.ide.util.TipDialog/68.0.1212.720/1280.0.1280.680@1280.0.1280.680" timestamp="1628787865805" />
     <state x="1598" y="174" key="com.intellij.ide.util.TipDialog/73.0.1207.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627396107350" />
     <state x="373" y="184" key="com.intellij.ide.util.TipDialog/73.0.1207.720/1280.0.1280.680@73.0.1207.720" timestamp="1627396016969" />
     <state x="1598" y="174" key="com.intellij.ide.util.TipDialog/85.0.1195.720/1280.0.1280.680@1280.0.1280.680" timestamp="1627419456048" />
