@@ -1,5 +1,7 @@
 package aprendizadoAvancadoJava.observer;
 
+import aprendizadoJava.data_.Data;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -23,7 +25,12 @@ public class Porteiro {
             valor = entrada.nextLine();
 
             if ("sim".equalsIgnoreCase(valor)) {
+                //criar evento
+                EventoChegadaAniversariante evento = new EventoChegadaAniversariante(new Data());
+
                 //notificar os observadores
+                observadores.stream()
+                        .forEach(o -> o.chegou(evento));
             } else {
                 System.out.println("Alarme falso!");
             }
