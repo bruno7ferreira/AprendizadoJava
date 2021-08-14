@@ -3,6 +3,7 @@ package aprendizadoAvancadoJava.observer;
 import aprendizadoJava.data_.Data;
 
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 import java.util.Scanner;
 
@@ -26,7 +27,7 @@ public class Porteiro {
 
             if ("sim".equalsIgnoreCase(valor)) {
                 //criar evento
-                EventoChegadaAniversariante evento = new EventoChegadaAniversariante(new Data());
+                EventoChegadaAniversariante evento = new EventoChegadaAniversariante(new Date());
 
                 //notificar os observadores
                 observadores.stream()
