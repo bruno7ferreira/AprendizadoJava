@@ -34,6 +34,7 @@ public class Porteiro {
             } else {
                 System.out.println("Alarme falso!");
             }
+            entrada.close();
         }
 
     }
