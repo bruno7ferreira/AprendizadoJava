@@ -2,15 +2,17 @@ package aprendizadoAvancadoJava.observer;
 
 import aprendizadoJava.data_.Data;
 
+import java.util.Date;
+
 public class EventoChegadaAniversariante {
 
-    private final Data momento;
+    private final Date momento;
 
-    public EventoChegadaAniversariante(Data momento) {
+    public EventoChegadaAniversariante(Date momento) {
         this.momento = momento;
     }
 
-    public Data getMomento() {
+    public Date getMomento() {
         return momento;
     }
 
