@@ -8,7 +8,10 @@ public class AniversarioSurpresa {
         Porteiro porteiro = new Porteiro();
 
         porteiro.registrarObservadores(namorada);
-        porteiro.registrarObservadores(evento -> System.out.println(" \n Surpresa!! via Lambda")); //Usando lambda
+        porteiro.registrarObservadores(e -> {
+            System.out.println(" \n Surpresa!! via Lambda");
+            System.out.println("Ocorreu as: " + e.getMomento());
+        }); //Usando lambda
         porteiro.monitorar();
 
 
