@@ -1,4 +1,4 @@
-package teste.exercicio;
+package aprendizadoJava.teste.exercicio;
 
 public class Lampada {
 

@@ -1,4 +1,4 @@
-package teste.aula43;
+package aprendizadoJava.teste.aula43;
 
 
 import java.util.Arrays;

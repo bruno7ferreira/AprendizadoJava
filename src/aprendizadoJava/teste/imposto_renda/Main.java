@@ -1,4 +1,4 @@
-package teste.imposto_renda;
+package aprendizadoJava.teste.imposto_renda;
 
 public class Main {
 

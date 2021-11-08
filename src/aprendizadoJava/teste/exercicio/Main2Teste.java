@@ -1,6 +1,4 @@
-package teste.exercicio;
-
-import teste.exercicio.Contador;
+package aprendizadoJava.teste.exercicio;
 
 public class Main2Teste {
 

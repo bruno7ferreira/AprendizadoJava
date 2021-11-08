@@ -1,4 +1,4 @@
-package teste.erro.exercicio;
+package aprendizadoJava.teste.erro.exercicio;
 
 import java.util.Scanner;
 

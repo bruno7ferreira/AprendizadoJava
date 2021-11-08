@@ -1,6 +1,4 @@
-package teste.exercicio;
-
-import teste.exercicio.Livro;
+package aprendizadoJava.teste.exercicio;
 
 public class LivroDeLivraria extends Livro {
 

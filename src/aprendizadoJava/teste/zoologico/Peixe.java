@@ -1,4 +1,4 @@
-package teste.zoologico;
+package aprendizadoJava.teste.zoologico;
 
 public class Peixe extends Animal {
 

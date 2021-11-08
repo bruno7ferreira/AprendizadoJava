@@ -1,7 +1,4 @@
-package teste.exercicio;
-
-import teste.exercicio.Agenda;
-import teste.exercicio.Contato;
+package aprendizadoJava.teste.exercicio;
 
 import java.util.Scanner;
 

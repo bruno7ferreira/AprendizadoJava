@@ -1,4 +1,4 @@
-package teste.teste_aleatorios;
+package aprendizadoJava.teste.teste_aleatorios;
 
 public class AnotacaoMain {
 
